@@ -1,0 +1,12 @@
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+}
+/* Footer*/
+.ft {
+  background-color: #454546;
+}
+
+.search-page {
+  height: 50vh;
+}
